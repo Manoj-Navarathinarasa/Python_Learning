@@ -1,4 +1,4 @@
-print("Well come to Shop Bill Calculator\n")
+print("Welcome to Shop Bill Calculator\n")
 name = input("What is your name : ")
 item = input("Please Enter your Item : ")
 price_per_item=float(input("Enter the item price : "))
